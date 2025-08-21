@@ -6,7 +6,7 @@
 = lf
 = true
 = false
-charset = utf-8
+= utf-8
 
 [*.{json,js,css,scss,yml,htm,html}]
 indent_style = space
