@@ -1,12 +1,11 @@
 # EditorConfig is awesome: http://EditorConfig.org
 = false
 
-[*]
-indent_style = tab
-indent_size = 4
-end_of_line = lf
-trim_trailing_whitespace = true
-insert_final_newline = false
+= tab
+= 4
+= lf
+= true
+= false
 charset = utf-8
 
 [*.{json,js,css,scss,yml,htm,html}]
