@@ -9,8 +9,8 @@
 = utf-8
 
 [*.{json,js,css,scss,yml,htm,html}]
-indent_style = space
-indent_size = 2
+= space
+= 2
 
 [*.{md,mdown,markdown}]
 trim_trailing_whitespace = false
